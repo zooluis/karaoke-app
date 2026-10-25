@@ -1,0 +1,14 @@
+# 验证产物
+_shots/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
